@@ -5,8 +5,9 @@
 **JetBrainsMonoD2 Nerd Font**는 개발자를 위해 제작된 하이브리드 고정폭(Monospace) 코딩 글꼴입니다.  
 **JetBrains Mono Nerd Font**의 가독성 높은 영문 디자인, 프로그래밍 리가처(Ligature), 최신 개발자 아이콘(Nerd Font v3)에 **네이버 D2Coding Ligature**의 깔끔한 한글 글리프를 결합하여, **완벽한 1:2 고정폭 그리드 정렬**을 제공합니다.
 
-![폰트 미리보기](assets/image.png)
-
+| 폰트 미리보기 1 | 폰트 미리보기 2 |
+| :---: | :---: |
+| ![미리보기1](assets/sample1.png) | ![미리보기2](assets/sample2.png) |
 ---
 
 ## ✨ 주요 특징
