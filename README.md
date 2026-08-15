@@ -7,7 +7,7 @@
 
 | 폰트 미리보기 1 | 폰트 미리보기 2 |
 | :---: | :---: |
-| ![미리보기1](assets/sample1.png) | ![미리보기2](assets/sample2.png) |
+| ![미리보기1](assets/sample11.png) | ![미리보기2](assets/sample2.png) |
 ---
 
 ## ✨ 주요 특징

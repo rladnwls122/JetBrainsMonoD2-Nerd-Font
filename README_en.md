@@ -4,8 +4,9 @@
 
 **JetBrainsMonoD2 Nerd Font** is a custom hybrid monospace font crafted for developers. It combines the sleek design, programming ligatures, and developer icons of **JetBrains Mono Nerd Font** with the clean and complete Korean glyphs of **D2Coding Ligature** — optimized for a perfect **1:2 monospaced grid alignment**.
 
-![Font Sample Preview](assets/font_sample.png)
-
+| Font sample preview 1 | Font sample preview 2 |
+| :---: | :---: |
+| ![1](assets/sample11.png) | ![2](assets/sample2.png) |
 ---
 
 ## ✨ Key Features
