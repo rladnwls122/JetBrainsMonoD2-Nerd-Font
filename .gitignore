@@ -1,0 +1,14 @@
+# Temp build files
+build/
+JetBrainsMono.zip
+sample_output/
+*.bak
+__pycache__/
+*.pyc
+
+# Original D2Coding folders
+D2Coding/
+D2CodingAll/
+D2CodingLigature/
+OFL.txt
+install_fonts.ps1
